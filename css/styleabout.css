@@ -1,0 +1,33 @@
+h1{
+    color: rgb(41, 39, 41);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h2{color: rgb(41, 39, 41);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header
+li{ 
+    display: inline-block;
+    width: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+a{
+    text-decoration: none;
+
+
+
+}
+
+img{
+    width:5%
+}
+
+header
+img{
+    width: 20%
+}

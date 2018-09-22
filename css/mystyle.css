@@ -1,0 +1,22 @@
+body{
+    background: lightgrey;
+}
+h1{
+    color: rgb(172, 84, 172);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+li{ 
+    display: inline-block;
+    width: 15%;
+    background: white;
+}
+a{
+    text-decoration: none;
+
+}
+
+img{
+    width: 20%
+}
